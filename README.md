@@ -6,12 +6,13 @@ This repository contains frontend code for [MyCity](http://mycity.io) platform.
 
 This frontend code relies on [MyCity API Server](http://docs.mycity.apiary.io) for data storage.
 
-Source code is written in [Jade](http://jade-lang.com/) and [Stylus](https://learnboost.github.io/stylus/),
-and is a Single-Page Application (aka [SPA](http://en.wikipedia.org/wiki/Single-page_application)) built with [Angular](https://angularjs.org/),
-so you should be familiar with these technologies if you want to do something major.
+Source code is written in [Jade](http://jade-lang.com/) and [Stylus](https://learnboost.github.io/stylus/).
 
-But don't worry if you aren't: build procedures include options to create uncompressed HTML, CSS and
-JavaScript files for all the tweaking.
+MyCity frontend is a Single-Page Application (aka [SPA](http://en.wikipedia.org/wiki/Single-page_application)) built with [Angular](https://angularjs.org/).
+
+You _should be_ familiar with mentioned technologies if you want to do something major. But don't worry if you
+aren't: build procedures include options to create uncompressed HTML, CSS and JavaScript files for all the
+tweaking.
 
 # Downloading
 
@@ -29,7 +30,7 @@ Coming soon.
 
 # Coding style convention
 
-Please see [this repository](https://github.com/mycity.io/coding-style) for coding conventions used throughout this application.
+Please see [this repository](https://github.com/mycityio/coding-style) for coding conventions used throughout this application.
 
 # Building
 
