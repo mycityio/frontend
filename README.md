@@ -19,7 +19,7 @@ tweaking.
 The easiest way to obtain your own copy of this code is to install [git](https://git-scm.com/downloads) and then
 perform a clone command like this:
 
-	# git clone https://github.com/mycityio/frontend.git
+	git clone https://github.com/mycityio/frontend.git
 
 This will create a directory called `frontend` that contains everything you need to test
 and run MyCity frontend code, provided that you have access to a working [MyCity API Server](http://docs.mycity.apiary.io).
@@ -35,3 +35,7 @@ Please see [this repository](https://github.com/mycityio/coding-style) for codin
 # Building
 
 Coming soon.
+
+# Feedback
+
+Found an error? Something's not working? Please let us know: [support@mycity.io](mailto:support@mycity.io?Subject=github-frontend)
